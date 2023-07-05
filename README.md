@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **demirciyucelarda@gmail.com**
 
-- 📄 Know about my experiences [www.yucel.tech](www.yucel.tech)
+- 📄 Know about my experiences **www.yucel.tech**
 
 - ⚡ Fun fact **I used to do cybersecurity before**
 
