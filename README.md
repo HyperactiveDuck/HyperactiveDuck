@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="[https://1999azzar.github.io/1999AZZAR/](https://www.yucel.tech/)">
+    <a href="https://www.yucel.tech/">
         <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Yücel Arda DEMİRCİ aka HyperactiveDuck</h1>
