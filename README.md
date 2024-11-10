@@ -3,7 +3,7 @@
         <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Yücel Arda DEMİRCİ aka HyperactiveDuck</h1>
-<h3 align="center">A Cross-Platform developer based in Turkey</h3>
+<h3 align="center">A Developer based in Turkey</h3>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=hyperactiveduck&label=Profile%20views&color=0e75b6&style=flat"
         alt="hyperactiveduck" /> </p>
@@ -16,8 +16,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/HyperactiveDuck](https://github.com/HyperactiveDuck)
 
 - 📫 Reach me at: **demirciyucelarda@gmail.com**
-
-- 📄 Know about my experiences **www.yucel.tech**
 
 - ⚡ Fun fact **I used to do cybersecurity before**
 
